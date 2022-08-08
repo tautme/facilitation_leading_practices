@@ -135,8 +135,8 @@ acting as a liaison between the user base and the ACI team. If the
 Facilitator’s base of operation is convenient to both groups, it makes
 it easy for the researcher to seek out the Facilitator, and for the
 Facilitator to interact with the rest of the ACI team. In cases where
-the ACI team members are all together in one location and all of the of
-the user base is in close proximity to this location, this may not an
+the ACI team members are all together in one location and all of
+the user base is in close proximity to this location, this may not be an
 issue. However, not all campuses have a physical environment that is
 conducive to the necessary level of interaction. In some cases the ACI
 resources and the members of the ACI team are not located on campus, and
